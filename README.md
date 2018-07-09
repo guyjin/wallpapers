@@ -9,3 +9,7 @@ There are a couple of directories for dual screen wallpapers that work on dual m
 ## 4k
 
 There is a 4k directory, but not much is there as yet.
+
+## 21:9
+
+The 21:9 directory is for images that work on screens like the Dell U3415W 34" 21:9 screen. Tiling shouldn't be necessary.
