@@ -1,6 +1,8 @@
 # Wallpaper Archive
 
-This is just a simple archive of wallpapers I've collected over the years. Resolution and subject are pretty haphazardly mixed. I've broken some of the files into resolution based directories. However, it's become clear to me that a screen ratio type of organization might work better.
+This is just a simple archive of wallpapers I've collected over the years. Resolution and subject are pretty haphazardly mixed. I've broken some of the files into resolution based directories. There are a few folders that are reflect the image screen ratio instead.
+
+
 
 ## Dual Screens
 
